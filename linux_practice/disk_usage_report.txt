@@ -1,0 +1,6 @@
+20K	backup_scripts
+44K	data
+32K	home
+68K	project
+32K	system
+48K	work
